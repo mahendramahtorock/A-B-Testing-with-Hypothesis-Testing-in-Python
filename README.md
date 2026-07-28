@@ -94,7 +94,7 @@ Several visualizations were created to better understand the data.
 
 This chart shows how users were divided between the Control and Treatment groups.
 
-![Users by Group](images/01_users_by_group.png)
+![Users by Group](number_of_user_in_group.jpeg)
 
 ---
 
@@ -102,7 +102,7 @@ This chart shows how users were divided between the Control and Treatment groups
 
 This visualization confirms that users were assigned almost equally to both landing pages.
 
-![Landing Page Distribution](images/02_landing_page_distribution.png)
+![Landing Page Distribution](landing_page_distribution.png)
 
 ---
 
@@ -110,7 +110,7 @@ This visualization confirms that users were assigned almost equally to both land
 
 This chart compares the conversion rate of the Control and Treatment groups.
 
-![Conversion Rate by Group](images/03_conversion_rate_by_group.png)
+![Conversion Rate by Group](conversion_rate_by_group.jpeg)
 
 ---
 
@@ -118,7 +118,7 @@ This chart compares the conversion rate of the Control and Treatment groups.
 
 This visualization shows the distribution of users across different countries.
 
-![Users by Country](images/04_users_by_country.png)
+![Users by Country](number_of_user_by_country.jpeg)
 
 ---
 
@@ -126,7 +126,7 @@ This visualization shows the distribution of users across different countries.
 
 This chart compares conversion rates across countries.
 
-![Conversion Rate by Country](images/05_conversion_rate_by_country.png)
+![Conversion Rate by Country](conversion_rate_by_country.jpeg)
 
 ---
 
@@ -134,7 +134,7 @@ This chart compares conversion rates across countries.
 
 This visualization compares the performance of both landing pages within each country.
 
-![Conversion Rate by Country and Group](images/06_conversion_rate_by_country_and_group.png)
+![Conversion Rate by Country and Group](conversion_rate_by_country_and_group.jpeg)
 
 ---
 
